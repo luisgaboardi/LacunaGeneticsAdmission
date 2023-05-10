@@ -1,5 +1,7 @@
 # Lessons Learned
 
+The main point is that I managed to develop this project in a short time (3 to 4 days, about 2h a day), with a technology that I had never used before, and that I was able to learn a lot from this experience.
+
 - **Willingness to learn**: I quickly realized that the key to learning any new technology is to approach it with an open mind and a willingness to learn. This is especially important when dealing with complex technologies like dotnet and C#.
 
 - **Attention to detail**: I learned that attention to detail is crucial when programming in C# and working with dotnet project. One small mistake can cause the entire program to fail, so I had to pay close attention to syntax, formatting, and other details.
