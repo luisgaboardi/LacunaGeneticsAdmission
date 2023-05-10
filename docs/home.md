@@ -10,6 +10,12 @@ A development challenge created by Lacuna Software for the dev admission. The or
 4. Encode a strand of DNA;
 5. Check if a gene(strand of DNA) is a activated on another strand of DNA.
 
+## Candidate Information
+
+- Name: Luís Guilherme Gaboardi Lins
+- Email: luis.ggaboardi@gmail.com
+- Year: 2023.1
+
 ## Requirements
 
 - All the above operations will be done through Lacuna Software's own REST API;
@@ -17,14 +23,15 @@ A development challenge created by Lacuna Software for the dev admission. The or
 - The challenge must be completed within 7 days;
 - Make sure you show your coding skills, knowledge on modularization, data serialization and code reuse.
 
-## Solution Orientation
+## System Requirements
 
-- Sent a zip of the final project and my Resume via email
+- .NET SDK Version: 7.x;
 
 ## History
 
-| Version | Description                                                   | Date       |
-| ------- | ------------------------------------------------------------- | ---------- |
-| 0.1     | Created file                                                  | 04/05/2023 |
-| 1.0     | Add description requirements and orientation for the solution | 04/05/2023 |
+| Version | Description                                                    | Date       |
+| ------- | -------------------------------------------------------------- | ---------- |
+| 0.1     | Created file                                                   | 04/05/2023 |
+| 1.0     | Add description requirements and orientation for the solution  | 04/05/2023 |
 | 1.1     | Update challenge solution with the first two items of the list | 05/05/2023 |
+| 1.2     | Add system requirements and candidate information              | 09/05/2023 |
